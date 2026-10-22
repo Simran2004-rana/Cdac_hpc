@@ -6,5 +6,6 @@ int main()
     scanf("%d %d",&a,&b);
     sum=a+b;
     printf("Sum of two numbers is: %d", sum);
+    printf("This is Sam here");
     return 0;
 }
